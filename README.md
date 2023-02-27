@@ -1,7 +1,7 @@
 # DBT-cancer-detection-algorithms
 
 ## Introduction and Citation
-Library of the publicly-availible lesion detection algorithm codebases from participating teams of the DBTex Digital Breast Tomosynthesis Lesion Detection Challenge, all of which use deep learning. If you use any of these codebases, please cite the authors, as well as the DBTex challenge paper:
+Library of the publicly-availible lesion detection algorithm codebases from participating teams of the DBTex Digital Breast Tomosynthesis Lesion Detection Challenge, all of which use deep learning. If you use any of these codebases, please cite the authors, as well as the DBTex challenge [paper](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2801740):
 ```bib
 @article{10.1001/jamanetworkopen.2023.0524,
     author = {Konz, Nicholas and Buda, Mateusz and Gu, Hanxue and Saha, Ashirbani and Yang, Jichen and Chłędowski, Jakub and Park, Jungkyu and Witowski, Jan and Geras, Krzysztof J. and Shoshan, Yoel and Gilboa-Solomon, Flora and Khapun, Daniel and Ratner, Vadim and Barkan, Ella and Ozery-Flato, Michal and Martí, Robert and Omigbodun, Akinyinka and Marasinou, Chrysostomos and Nakhaei, Noor and Hsu, William and Sahu, Pranjal and Hossain, Md Belayat and Lee, Juhun and Santos, Carlos and Przelaskowski, Artur and Kalpathy-Cramer, Jayashree and Bearce, Benjamin and Cha, Kenny and Farahani, Keyvan and Petrick, Nicholas and Hadjiiski, Lubomir and Drukker, Karen and Armato, Samuel G., III and Mazurowski, Maciej A.},

@@ -1,5 +1,8 @@
 # DBT-cancer-detection-algorithms
 
+## Validation and Test Set Labels + Bounding Boxes
+NOTICE: We have recently released the labels and lesion bounding boxes for the dataset's validation and test sets, at https://www.cancerimagingarchive.net/collection/breast-cancer-screening-dbt/ under "Data Access".
+
 ## Introduction and Citation
 Library of the publicly-availible lesion detection algorithm codebases from participating teams of the DBTex Digital Breast Tomosynthesis Lesion Detection Challenge, all of which use deep learning. If you use any of these codebases, please cite the authors, as well as the DBTex challenge [paper](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2801740):
 ```bib
